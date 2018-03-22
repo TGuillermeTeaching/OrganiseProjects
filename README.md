@@ -10,4 +10,5 @@ Some tips on how to organise research projects/folders/repositories in your comp
 
  * [Organising `R` code](https://kkulma.github.io/2018-03-18-Prime-Hints-for-Running-a-data-project-in-R/) by [Kasia Kulma](https://kkulma.github.io/)
  * [Naming things](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf) by [Jenny Bryan](https://github.com/jennybc)
- * [Version Control](https://github.com/TGuillermeTeaching/VersionControl)
+ * [Reproducible code Guide](http://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf) from the [BES](https://www.britishecologicalsociety.org/)
+* [Version Control](https://github.com/TGuillermeTeaching/VersionControl)
